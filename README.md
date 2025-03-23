@@ -4,21 +4,22 @@ This repository contains small projects, experiments, and practice components bu
 
 ## 🧠 What You'll Find Here
 
-- 🔹 CRUD with modals and dynamic forms  
-- 🔹 Reactive state with `ref`, `reactive`, `computed`, `watch`  
-- 🔹 Component communication via `props` and `emit`  
-- 🔹 Composition API structure and reusable logic  
-- 🔹 Tailwind CSS for modern UI  
-- 🔹 PrimeVue for toasts and UI polish  
+- 🔹 Product CRUD with modals and dynamic forms  
+- 🔹 Reactive state: `ref`, `reactive`, `computed`, `watch`  
+- 🔹 Component communication using `props` and `emit`  
+- 🔹 Global state management with **Pinia**  
+- 🔹 Shopping basket & wishlist (Pinia modules)  
+- 🔹 Tailwind CSS UI + PrimeVue toasts  
 - 🔹 Mock API integration (GET, POST, PUT, DELETE)
 
 ## 📦 Tech Stack
 
-- **Vue 3** (Composition API, `<script setup>`)
-- **Vite** (Fast build tool)
-- **Tailwind CSS** (Utility-first styling)
-- **PrimeVue** (Toasts, dialogs, UI)
-- **Mock API** (Local fake backend for learning)
+- **Vue 3** (Composition API + `<script setup>`)
+- **Vite** (lightning-fast dev server)
+- **Pinia** (global state for cart, wishlist)
+- **Tailwind CSS** (utility-first styling)
+- **PrimeVue** (toasts, components)
+- **Mock Service** (local backend)
 
 ## ▶️ Getting Started
 
