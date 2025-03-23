@@ -1,29 +1,27 @@
-# .
+# 🚀 Vue.js Learning Playground
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository contains small projects, experiments, and practice components built while learning and mastering **Vue.js 3** with the Composition API.
 
-## Recommended IDE Setup
+## 🧠 What You'll Find Here
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- 🔹 CRUD with modals and dynamic forms  
+- 🔹 Reactive state with `ref`, `reactive`, `computed`, `watch`  
+- 🔹 Component communication via `props` and `emit`  
+- 🔹 Composition API structure and reusable logic  
+- 🔹 Tailwind CSS for modern UI  
+- 🔹 PrimeVue for toasts and UI polish  
+- 🔹 Mock API integration (GET, POST, PUT, DELETE)
 
-## Customize configuration
+## 📦 Tech Stack
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- **Vue 3** (Composition API, `<script setup>`)
+- **Vite** (Fast build tool)
+- **Tailwind CSS** (Utility-first styling)
+- **PrimeVue** (Toasts, dialogs, UI)
+- **Mock API** (Local fake backend for learning)
 
-## Project Setup
+## ▶️ Getting Started
 
-```sh
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
