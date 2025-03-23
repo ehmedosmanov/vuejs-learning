@@ -1,4 +1,4 @@
-# 🚀 Vue.js Learning Playground
+# 🚀 Vue.js Learning
 
 This repository contains small projects, experiments, and practice components built while learning and mastering **Vue.js 3** with the Composition API.
 
