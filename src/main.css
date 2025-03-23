@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.wrapper {
+  @apply mx-auto px-[25px] md:px-[40px] lg:px-[60px];
+}

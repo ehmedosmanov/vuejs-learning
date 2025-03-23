@@ -1,0 +1,8 @@
+1. Favourites
+2. Filter/Sort/Pagination/Search
+3. CRUD
+4. Table
+5. Detail Page
+6. Skeleton Loadings
+7. Basket Page
+8. Wishlist Page
